@@ -1,8 +1,8 @@
-# 🔧 diagramme-it
+# 🔧 Rover Télécommandé 
 
 **Projet de cours** — Ce Répo correspond à un projet de cours.
 
-**Diagramme BDD pour le projet** — Jeu de schémas et documentation visuelle de la base de données principale.
+**Projet d'un rover** — Jeu de schémas et documentation visuelle de la base de données principale.
 
 ---
 
